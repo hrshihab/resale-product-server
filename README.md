@@ -1,1 +1,1 @@
-# resale-product-server2
+# resale-product-server
